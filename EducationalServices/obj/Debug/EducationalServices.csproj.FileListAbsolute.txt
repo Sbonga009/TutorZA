@@ -1,0 +1,468 @@
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\EducationalServices.dll.config
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\EducationalServices.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\EducationalServices.pdb
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\csc.exe
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\csc.exe.config
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\csc.rsp
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\csi.exe
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\csi.exe.config
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\csi.rsp
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.AppContext.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Console.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Net.Http.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Net.Sockets.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\vbc.exe
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\vbc.exe.config
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\vbc.rsp
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Antlr3.Runtime.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\EntityFramework.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\EntityFramework.SqlServer.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Newtonsoft.Json.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Owin.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Net.Http.Formatting.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Helpers.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Http.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Http.WebHost.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Mvc.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Optimization.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Razor.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.WebPages.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\WebGrease.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Helpers.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Mvc.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Optimization.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Razor.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.WebPages.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Newtonsoft.Json.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Antlr3.Runtime.pdb
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Net.Http.Formatting.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Http.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Http.WebHost.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\EntityFramework.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\EntityFramework.SqlServer.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\obj\Debug\EducationalServices.csproj.AssemblyReference.cache
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\obj\Debug\EducationalServices.csproj.CoreCompileInputs.cache
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\obj\Debug\Educatio.822CA3F0.Up2Date
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\obj\Debug\EducationalServices.dll
+C:\Users\naido\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\obj\Debug\EducationalServices.pdb
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\EducationalServices.dll.config
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\EducationalServices.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\EducationalServices.pdb
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\csc.exe
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\csc.exe.config
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\csc.rsp
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\csi.exe
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\csi.exe.config
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\csi.rsp
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.AppContext.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Console.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Net.Http.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\vbc.exe
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\vbc.exe.config
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\vbc.rsp
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Antlr3.Runtime.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\EntityFramework.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\EntityFramework.SqlServer.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Newtonsoft.Json.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Owin.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Net.Http.Formatting.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Helpers.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Http.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Http.WebHost.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Mvc.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Optimization.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Razor.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.WebPages.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\WebGrease.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Helpers.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Mvc.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Optimization.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Razor.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.WebPages.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Newtonsoft.Json.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Antlr3.Runtime.pdb
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Net.Http.Formatting.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Http.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Http.WebHost.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\EntityFramework.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\EntityFramework.SqlServer.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\obj\Debug\EducationalServices.csproj.AssemblyReference.cache
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\obj\Debug\EducationalServices.csproj.CoreCompileInputs.cache
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\obj\Debug\Educatio.822CA3F0.Up2Date
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\obj\Debug\EducationalServices.dll
+C:\Users\tyron\OneDrive\Desktop\EducationalServices\EducationalServices\EducationalServices\obj\Debug\EducationalServices.pdb
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\EducationalServices.dll.config
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\EducationalServices.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\EducationalServices.pdb
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\csc.exe
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\csc.exe.config
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\csc.rsp
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\csi.exe
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\csi.exe.config
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\csi.rsp
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.AppContext.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Console.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Net.Http.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Net.Sockets.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\vbc.exe
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\vbc.exe.config
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\vbc.rsp
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Antlr3.Runtime.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\EntityFramework.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\EntityFramework.SqlServer.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Newtonsoft.Json.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Owin.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\System.Net.Http.Formatting.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Helpers.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Http.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Http.WebHost.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Mvc.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Optimization.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Razor.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.WebPages.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\WebGrease.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Helpers.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Mvc.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Optimization.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Razor.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.WebPages.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Newtonsoft.Json.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Antlr3.Runtime.pdb
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\System.Net.Http.Formatting.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Http.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\System.Web.Http.WebHost.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\EntityFramework.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\EntityFramework.SqlServer.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\obj\Debug\EducationalServices.csproj.AssemblyReference.cache
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\obj\Debug\EducationalServices.csproj.CoreCompileInputs.cache
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\obj\Debug\Educatio.822CA3F0.Up2Date
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\obj\Debug\EducationalServices.dll
+C:\Users\i5 hp\Downloads\EducationalServices (1)\EducationalServices\EducationalServices\EducationalServices\obj\Debug\EducationalServices.pdb
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\obj\Debug\EducationalServices.csproj.AssemblyReference.cache
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\obj\Debug\EducationalServices.csproj.CoreCompileInputs.cache
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\obj\Debug\EducationalServices.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\obj\Debug\EducationalServices.pdb
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\EducationalServices.dll.config
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\EducationalServices.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\EducationalServices.pdb
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\csc.exe
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\csc.exe.config
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\csc.rsp
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\csi.exe
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\csi.exe.config
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\csi.rsp
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.AppContext.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.Console.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.Net.Http.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\vbc.exe
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\vbc.exe.config
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\vbc.rsp
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Antlr3.Runtime.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\BraintreeHttp-Dotnet.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\EntityFramework.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\EntityFramework.SqlServer.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.Owin.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Newtonsoft.Json.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\OpenSSL.PrivateKeyDecoder.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\OpenSSL.X509Certificate2.Provider.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Owin.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\PayPal.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\System.Net.Http.Formatting.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\System.Web.Helpers.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\System.Web.Http.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\System.Web.Http.WebHost.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\System.Web.Mvc.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\System.Web.Optimization.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\System.Web.Razor.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\System.Web.WebPages.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\WebGrease.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\OpenSSL.PrivateKeyDecoder.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\OpenSSL.X509Certificate2.Provider.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\PayPal.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\System.Web.Helpers.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\System.Web.Mvc.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\System.Web.Optimization.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\System.Web.Razor.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\System.Web.WebPages.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Newtonsoft.Json.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Antlr3.Runtime.pdb
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\System.Net.Http.Formatting.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\System.Web.Http.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\System.Web.Http.WebHost.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\EntityFramework.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\EntityFramework.SqlServer.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.Owin.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\obj\Debug\EducationalServices.csproj.CopyComplete
+C:\Users\i5 hp\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\obj\Debug\EducationalServices.dll
+C:\Users\i5 hp\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\obj\Debug\EducationalServices.pdb
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\BouncyCastle.Crypto.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\itextsharp.dll
+C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\bin\itextsharp.xml

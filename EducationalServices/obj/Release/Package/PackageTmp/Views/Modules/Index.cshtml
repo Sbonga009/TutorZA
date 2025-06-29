@@ -1,0 +1,64 @@
+﻿@model IEnumerable<EducationalServices.Models.Module>
+
+@{
+    ViewBag.Title = "Added Modules";
+}
+
+<h2>Added Modules</h2>
+
+<p>
+    @Html.ActionLink("Add Modules", "Create")
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Subject)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SubjectCode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DurationInHours)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Difficulty)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Subject)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SubjectCode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DurationInHours)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Difficulty)
+        </td>
+        <td>
+            @item.Price.ToString("R0.00")
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.ModuleId }) |
+            @Html.ActionLink("Details", "Details", new { id = item.ModuleId }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.ModuleId })
+        </td>
+    </tr>
+}
+
+</table>

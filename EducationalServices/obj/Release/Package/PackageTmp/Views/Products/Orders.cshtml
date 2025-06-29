@@ -1,0 +1,45 @@
+﻿@model IEnumerable<EducationalServices.Models.Orders>
+
+@{
+    ViewBag.Title = "Orders";
+}
+
+<h2>Orders</h2>
+  @if (TempData["Success"] != null)
+  {
+<a class="btn btn-success btn-block btn-lg">@TempData["Success"]</a>
+      TempData["Success"] = null;
+  }
+<table class="table">
+    <tr>
+        <th>
+            Order Numder
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OrderDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TotalAmount)
+        </th>
+        <th>Action</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                # @item.OrderId
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalAmount)
+            </td>
+            <td>
+                @Html.ActionLink("Order Details", "OrderDetails", new { OrderId = item.OrderId })
+            </td>
+        </tr>
+    }
+
+</table>

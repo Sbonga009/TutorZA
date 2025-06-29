@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\Sibongibnkosi\Downloads\EducationalServices-20240427T135106Z-001\EducationalServices\EducationalServices\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

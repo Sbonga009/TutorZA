@@ -1,0 +1,122 @@
+﻿@model IEnumerable<EducationalServices.Models.Cart>
+@using Microsoft.AspNet.Identity
+@{
+    ViewBag.Title = "View Cart";
+    decimal Total = 0;
+    decimal SubTotal = 0;
+    EducationalServices.Models.ApplicationDbContext db = new EducationalServices.Models.ApplicationDbContext();
+    var UserId = User.Identity.GetUserId();
+    var CheckUserCards = db.Cards.Where(x => x.UserId == UserId).ToList();
+}
+    
+
+<h2>View Cart</h2>
+
+<section class="h-100">
+    <div class="container py-5 h-100">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+            <div class="col">
+                <div class="card">
+                    <div class="card-body p-4">
+                        @if (Model.Count() != 0)
+                        {
+                            <div class="row">
+                                <div class="col-lg-7">
+                                    <h5 class="mb-3">
+                                        <a href="~/Products/Index" class="text-body">
+                                            <i class="fas fa-long-arrow-alt-left me-2"></i>Continue shopping
+                                        </a>
+                                    </h5>
+                                    <hr>
+
+                                    @foreach (var item in Model)
+                                    {
+                                        <div class="card mb-3 mb-lg-0">
+                                            <div class="card-body">
+                                                <div class="d-flex justify-content-between">
+                                                    <div class="d-flex flex-row align-items-center">
+                                                        <div>
+                                                            <img src="data:image;base64,@item.Picture" class="img-fluid rounded-3" alt="Shopping item" style="width: 65px;">
+                                                        </div>
+                                                        <div class="ms-3">
+                                                            <h5>@item.Name</h5>
+                                                            <p class="small mb-0">@item.Description</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="d-flex flex-row align-items-center">
+                                                        <div style="width: 50px;">
+                                                            <h5 class="fw-normal mb-0">@item.StockQuantity</h5>
+                                                        </div>
+                                                        <div style="width: 80px;">
+                                                            <h5 class="mb-0">@item.Price.ToString("R0.00")</h5>
+                                                        </div>
+                                                        <form method="post" action="~/Products/DeleteCartItem">
+                                                            <input name="ProductId" value="@item.ProductId" hidden />
+                                                            <button type="submit" class="btn btn-danger">Delete</button>
+                                                        </form>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        SubTotal += (item.StockQuantity * item.Price);
+                                    }
+                                </div>
+                                <div class="col-lg-5">
+                                    <form method="get" action="~/Products/Payment">
+                                        <div class="card bg-primary text-white rounded-3">
+                                            <div class="card-body">
+                                                <div class="d-flex justify-content-between align-items-center mb-4">
+                                                    <h5 class="mb-0">Card details</h5>
+                                                </div>
+
+                                                <a class="btn btn-sm btn-info" href="~/Cards/Create">Add Card</a>
+                                                <br />
+                                                <label>Select Card</label>
+                                                <select name="CardId" class="form-control">
+                                                    <option value="0">Once off</option>
+                                                    @foreach (var card in CheckUserCards)
+                                                    {
+                                                        <option value="@card.CardId">@card.Number</option>
+                                                    }
+                                                </select>
+
+
+                                                @{ Total = (SubTotal * 15 / 100) + SubTotal;
+                                                }
+
+                                                <hr class="my-4">
+
+                                                <div class="d-flex justify-content-between">
+                                                    <p class="mb-2">Subtotal</p>
+                                                    <p class="mb-2">@SubTotal.ToString("R0.00")</p>
+                                                </div>
+
+                                                <div class="d-flex justify-content-between mb-4">
+                                                    <p class="mb-2">Total(Incl. taxes)</p>
+                                                    <p class="mb-2">@Total.ToString("R0.00")</p>
+                                                </div>
+
+                                                <button type="submit" data-mdb-button-init data-mdb-ripple-init class="btn btn-info btn-block btn-lg">
+                                                    <div class="d-flex justify-content-between">
+                                                        <span>@Total.ToString("R0.00")</span>
+                                                        <span>Checkout <i class="fas fa-long-arrow-alt-right ms-2"></i></span>
+                                                    </div>
+                                                </button>
+
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                                <button type="button" class="btn btn-outline-dark" onclick="location.href='@Url.Action(actionName: "CreatePayment", controllerName: "PayPal", routeValues: new { CartTotal = Total })'"> Checkout</button>
+                            </div>
+                        }
+                        else
+                        {
+                            <h1 class="text-danger">No Items Added</h1>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
